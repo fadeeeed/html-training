@@ -1,0 +1,80 @@
+.container{
+    height: 1000px;
+}
+
+.heading{
+    text-align: center;
+    font-family: 'Zen Dots'; 
+    box-shadow: 5px 10px; 
+    font-size: 100px;
+  }
+
+img{
+    width:20%;
+    margin-top:5%;
+    border-radius:30px; 
+    justify-content: center;
+}
+
+.info{
+    font-family: 'Zen Dots';
+    text-align: center;
+}
+
+.profileImage{
+    justify-content: center;
+    text-align: center;
+    width: 100%;
+}
+
+#name{
+    margin-top:2%;
+    width:100%;
+    text-align:center;
+}
+
+/*Nav Bar Styling Starts*/
+.topnav {
+    overflow: hidden;
+    margin-top: 20px;
+  }
+  .topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+  
+  .topnav a.active {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  /*Nav Bar Styling Ends*/
+
+#post{
+    width:100%;
+    text-align: center;
+}
+
+#contact{
+    width:100%;
+    text-align: center;
+}
+
+#email{
+    width:100%;
+    text-align:center;
+}
+
+#address{
+    width:100%;
+    text-align: center;
+}

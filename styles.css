@@ -7,11 +7,25 @@ footer{
   width: 100%;
 }
 
+.img-thumbnail{
+  float: right;
+}
 .heading{
   text-align: center;
   font-family: 'Zen Dots'; 
   box-shadow: 5px 10px; 
   font-size: 100px;
+}
+
+.headlines{
+  float:left;
+  width:100%;
+  color:azure;
+  margin-left:30%;
+}
+
+#image{
+  height: 100px;
 }
 
 /*Nav Bar Styling Starts*/
